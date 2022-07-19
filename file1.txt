@@ -7,3 +7,5 @@ Vasilii Petrovich
 Petr Petrovich Ivanov
 Новая строка
 new line
+'no more as' 
+"no more assss" 
